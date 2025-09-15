@@ -1,11 +1,9 @@
-# Ultra Safe - Tested Versions
-pip==24.2
-streamlit==1.28.0
-pandas==2.0.3  
-numpy==1.24.4
-plotly==5.15.0
-scikit-learn==1.3.0
-matplotlib==3.7.1
-seaborn==0.12.2
-Pillow==9.5.0
-
+# Python 3.13 Compatible Versions
+streamlit==1.39.0
+pandas==2.2.3
+numpy==2.1.3
+plotly==5.24.1
+scikit-learn==1.5.2
+matplotlib==3.9.2
+seaborn==0.13.2
+Pillow==10.4.0
